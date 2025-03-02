@@ -33,3 +33,10 @@ This was a project to practice vanilla javascript skills. For real world/product
 - The app uses JavaScript to generate a random password based on user-selected settings.
 - Users can select which character types they want to include (uppercase, lowercase, numbers, and symbols) and set a custom password length.
 - The password is then displayed in a text input field, which can be copied by clicking the copy button.
+
+## Example
+
+Here is a preview of the app:
+
+![Preview Employee Gallery App](./images/img-1.png)
+![Preview Employee Gallery App](./images/img-2.png)
