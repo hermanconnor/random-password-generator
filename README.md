@@ -38,5 +38,5 @@ This was a project to practice vanilla javascript skills. For real world/product
 
 Here is a preview of the app:
 
-![Preview Employee Gallery App](./images/img-1.png)
-![Preview Employee Gallery App](./images/img-2.png)
+![Preview Random Password Generator](./images/img-1.png)
+![Preview Random Password Generator](./images/img-2.png)
